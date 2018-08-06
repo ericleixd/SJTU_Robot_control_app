@@ -171,7 +171,7 @@ class ViewController: UIViewController ,UITextFieldDelegate{
         ZIn.delegate = self
         speedIn.delegate = self
     }
-    
+    //
     //close the top bar of iPhone
     override var prefersStatusBarHidden: Bool{
         return true
